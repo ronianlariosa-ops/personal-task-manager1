@@ -5,7 +5,7 @@ A Laravel-based Personal Task Manager developed for the Laravel Mini Project.
 ## Project Information
 
 - **Project Code:** WST21-PM-2026-SF
-- **Student Name:** Ronian Lariosa
+- **Student Name:** Ronian Lariosa Cumahig
 - **Course & Year:** [BSIT 2ND YEAR]
 - **Database Used:** SQLite
 
